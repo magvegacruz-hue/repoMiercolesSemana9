@@ -1,6 +1,3 @@
-#   append()  -> agrega al final (llega un paciente)
-#   pop(0)    -> quita el primero (hace lo mismo que popleft())
-
 cola = []
 
 def registrar_paciente(nombre):
