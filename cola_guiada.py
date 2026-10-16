@@ -53,3 +53,7 @@ def main():
         elif opcion == "3":
             mostrar_cola()
     print("Sistema de la clínica cerrado.")
+
+if __name__ == "__main__":
+    main()
+
