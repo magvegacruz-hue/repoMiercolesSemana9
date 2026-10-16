@@ -65,6 +65,10 @@ def main():
             historial()
     print("Editor cerrado.")
 
+if __name__ == "__main__":
+    main()
+
+
 # Seis operaciones de prueba sugeridas:
 # 1) Registrar "Escribir título"
 # 2) Registrar "Agregar párrafo"
