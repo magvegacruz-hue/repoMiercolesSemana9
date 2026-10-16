@@ -57,6 +57,10 @@ def main():
     desapilar()
     mostrar_pila()
 
+if __name__ == "__main__":
+    main()
+
+
 # Paso 3 - Respuestas:
 # ¿Qué libro se retira primero? El último que se apiló (en el ejemplo
 # original, "Base de Datos").
