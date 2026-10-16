@@ -86,3 +86,6 @@ def main():
         elif opcion == "5":
             prueba_obligatoria()
     print("Navegador cerrado.")
+
+if __name__ == "__main__":
+    main()
