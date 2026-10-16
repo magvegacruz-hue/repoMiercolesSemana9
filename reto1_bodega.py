@@ -133,3 +133,6 @@ def main():
 
     print("Programa finalizado. ¡Hasta luego!")
 
+if __name__ == "__main__":
+    main()
+

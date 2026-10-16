@@ -1,5 +1,6 @@
 cola = []
 
+
 def registrar_paciente(nombre):
     cola.append(nombre)
     print(f"Registrado: {nombre}")
